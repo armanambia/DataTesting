@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Arman\OneDrive - Cal State Fullerton\Personal Coding\DataTesting\DataTesting\DataTesting\Source.cpp(196,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Arman\OneDrive - Cal State Fullerton\Personal Coding\DataTesting\DataTesting\DataTesting\Source.cpp(218,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+  DataTesting.vcxproj -> C:\Users\Arman\OneDrive - Cal State Fullerton\Personal Coding\DataTesting\DataTesting\Debug\DataTesting.exe
